@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentAttendance</string>
+
+    <string name="date">showMyDate</string>
+</resources>
